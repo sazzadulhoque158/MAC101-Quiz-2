@@ -75,7 +75,7 @@ int main() {
 
 ---
 
-## 📝 Submission Instructions
+## Submission Instructions
 
 * Save your file as **`main.cpp`**
 * Test your program with several inputs (e.g., 10, 20, 50)
@@ -83,7 +83,7 @@ int main() {
 
 ---
 
-## 🧠 Bonus Challenge (Extra Points)
+## Bonus Challenge (Extra Points)
 
 Modify the program so that it:
 
