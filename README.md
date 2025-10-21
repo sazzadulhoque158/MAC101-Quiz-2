@@ -1,5 +1,7 @@
 # MAC101-Quiz-2 FizzBuzz with User Input Quiz
-
+<p align="center">
+  <img src="./FizzBuzzInputQuizCoverArt.png?auto=format&fit=crop&w=1200&q=80" alt="Colorful dice tumbling" width="600">
+</p>
 ## Objective
 
 This quiz reinforces your understanding of:
